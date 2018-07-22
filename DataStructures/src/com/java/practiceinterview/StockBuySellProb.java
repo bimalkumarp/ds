@@ -32,10 +32,6 @@ public class StockBuySellProb {
 			
 			
 			
-			
-			
-			
-			
 			while(i<n && intArray[i]>=intArray[i-1]){
 				i++;//i=5
 				
